@@ -61,8 +61,8 @@ A full-stack cricket analytics web app for the **ICC Champions Trophy 2025**, bu
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/Toib765/ICC-Champions-Trophy-2025.git
-cd ICC-Champions-Trophy-2025/Project
+git clone https://github.com/Toib765/CricAlgo.git
+cd CricAlgo
 ```
 
 ### 3. Install Dependencies
